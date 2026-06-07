@@ -1,0 +1,78 @@
+# Day 4 - Chain-of-Thought Prompting
+
+## 60-Day Claude AI Mastery Challenge
+
+### Objective
+
+The goal of Day 4 was to understand how Chain-of-Thought (CoT) Prompting improves AI reasoning and output quality.
+
+---
+
+## Tasks Completed
+
+### 1. Learned Chain-of-Thought Prompting
+
+Chain-of-Thought Prompting is a technique where we ask AI to think step-by-step before generating a response.
+
+Benefits:
+
+- Better reasoning
+- More detailed answers
+- Improved accuracy
+- Better planning and decision-making
+
+---
+
+### 2. Created a Personalized Career Roadmap
+
+Used Claude AI to generate a career roadmap for becoming an AI professional.
+
+Roadmap included:
+
+- Skills to learn
+- Learning sequence
+- Projects
+- Certifications
+- Timeline
+- Career opportunities
+
+---
+
+### 3. Compared Prompt Quality
+
+#### Normal Prompt
+
+How can I become an AI Engineer?
+
+Result:
+Short and generic response.
+
+#### Chain-of-Thought Prompt
+
+Create a roadmap for becoming an AI Engineer.
+Think step-by-step and explain your reasoning.
+
+Result:
+Detailed roadmap with reasoning and actionable steps.
+
+---
+
+### 4. Explored Capsule Hub
+
+- Installed Capsule Hub
+- Explored available features
+- Learned how AI workflows can be organized
+
+---
+
+## Key Learning
+
+Chain-of-Thought Prompting helps AI break complex problems into smaller steps, resulting in more useful and detailed outputs.
+
+---
+
+## Author
+
+Shwetank Awasthi
+
+GitHub: awshwetank27
